@@ -81,6 +81,8 @@ Now you're ready to explore the dashboard and analyze the pollution data associa
 2. **Save the Workbook**:
    - Save the Excel file to retain all changes and dashboard settings.
 
+![Dashboard Preview](Dashboard.png)
+
 ## Contributing
 
 If you have suggestions for improving this dashboard or want to add new features, feel free to open an issue or submit a pull request. Contributions are welcome!
